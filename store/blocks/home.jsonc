@@ -1,7 +1,7 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text",
+      "rich-text",      
       "info-card#button-right",
       "info-card#button-left"
     ]
@@ -45,10 +45,10 @@
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "headline": "Shining Core",
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
-      "callToActionMode": "link",
+      "callToActionMode": "Link",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "Center"
     }
   }
 }
