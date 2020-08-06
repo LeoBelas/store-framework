@@ -6,8 +6,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "Testes", 
-      "textPosition": "CENTER"
+      "text": "**Hello, World!**", 
+      "textPosition": "RIGHT"
     }
   }
 }
