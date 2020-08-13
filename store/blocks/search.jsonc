@@ -30,12 +30,12 @@
     ]
   },
   "flex-layout.col#filter": {
-    "children": 
-      ["filter-navigation.v3"]      
-    ,
     "props": {
-      "width": "20%"
-    }
+      "width": "20%",
+      "horizontalAlign": "left"
+    },
+    "children": 
+    ["filter-navigation.v3"]      
   },
   "flex-layout.col#search": {
     "children": [
